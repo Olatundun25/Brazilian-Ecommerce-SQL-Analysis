@@ -1,8 +1,7 @@
 Brazilian E-Commerce Sales Analysis (SQL)
 A complete SQL-based analysis of a Brazilian e-commerce platform (Olist), covering sales performance, customer behaviour, product trends, seller performance, and delivery efficiency across 99,442 orders.
 ---
-Project Preview
-> Upload your query screenshots to a folder called `screenshots` in this repo and they will show here.
+
 ---
 Key Metrics
 Metric	Value
